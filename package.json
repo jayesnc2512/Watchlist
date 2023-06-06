@@ -16,5 +16,6 @@
     "nodemon": "^2.0.21",
     "yarn": "^1.22.19"
   },
+  "keywords": [],
   "description": ""
 }
